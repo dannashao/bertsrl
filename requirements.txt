@@ -1,0 +1,9 @@
+datasets==2.16.1
+numpy==1.24.4
+transformers==4.37.0
+
+# If you want to use checklist, the following packages are required
+checklist==0.0.11
+ipywidgets==8.1.0
+spacy==3.7.2
+en-core-web-sm==3.7.1

@@ -1,0 +1,178 @@
+# 6-MFT.intrans.1
+# text = We arrived school.
+We	ARG0
+arrived	V
+school	ARG4
+.	_
+
+# 6-MFT.intrans.2
+# text = He talked with Jim.
+He	ARG0
+talked	V
+with	_
+Jim	ARG2
+.	_
+
+# 6-MFT.intrans.3
+# text = He talked about it.
+He	ARG0
+talked	V
+about	_
+it	ARG1
+.	_
+
+# 6-MFT.intrans.4
+# text = The plant grows quickly.
+The	_
+plant	ARG0
+grows	V
+quickly	ARGM-MNR
+.	_
+
+# 6-MFT.intrans.5
+# text = The refugees immigrated to Canada.
+The	_
+refugees	ARG0
+immigrated	V
+to	_
+Canada	ARG4
+.	_
+
+# 6-MFT.trans.1
+# text = They eat good foods.
+They	ARG0
+eat	V
+good	_
+foods	ARG1
+.	_
+
+# 6-MFT.trans.2
+# text = The boy throws the ball.
+The	_
+boy	ARG0
+throws	V
+the	_
+ball	ARG1
+.	_
+
+# 6-MFT.trans.3
+# text = What took place?
+What	ARG1
+took	V
+place	ARG2
+?	_
+
+# 6-MFT.trans.4
+# text = Take her to the vet.
+Take	V
+her	ARG1
+to	_
+the	_
+vet	ARG3
+.	_
+
+# 6-MFT.trans.5
+# text = I bought my ticket.
+I	ARG0
+bought	V
+my	_
+ticket	ARG1
+.	_
+
+# 6-MFT.trans.6
+# text = They paint the walls.
+They	ARG0
+paint	V
+the	_
+walls	ARG1
+.	_
+
+# 6-MFT.ditrans.1
+# text = The company gave employees a holiday.
+The	_
+company	ARG0
+gave	V
+employees	ARG2
+a	_
+holiday	ARG1
+.	_
+
+# 6-MFT.ditrans.2
+# text = I sent you a note.
+I	ARG0
+sent	V
+you	ARG2
+a	_
+note	ARG1
+.	_
+
+# 6-MFT.ditrans.3
+# text = She told him a story.
+She	ARG0
+told	V
+him	ARG2
+a	_
+story	ARG1
+.	_
+
+# 6-MFT.ditrans.4
+# text = Tell me the story.
+Tell	V
+me	ARG2
+the	_
+story	ARG1
+.	_
+
+# 6-MFT.ditrans.5
+# text = He asked me a favor.
+He	ARG0
+ask	V
+me	ARG2
+a	_
+favor	ARG1
+.	_
+
+# 6-MFT.ditrans.6
+# text = They build their son a house.
+They	ARG0
+build	V
+their	_
+son	ARG2
+a	_
+house	ARG1
+.	_
+
+# 6-MFT.tritrans.1
+# text = I bet him euros on the horse.
+I	ARG0
+bet	V
+him	ARG1
+euros	ARG2
+on	_
+the	_
+horse	ARG2
+.	_
+
+# 6-MFT.tritrans.2
+# He beg her a favor for a kiss.
+He	ARG0
+beg	V
+her	ARG1
+a	_
+favor	ARG2
+for	_
+a	_
+kiss	ARG2
+.	_
+
+# 6-MFT.tritrans.3
+# I trade him a bike for a camera.
+I	ARG0
+trade	V
+him	ARG1
+a	_
+bike	ARG2
+for	_
+a	_
+camera	ARG2
+.	_

@@ -1,0 +1,175 @@
+# 11.NER.1
+# text = It happend at the White House.
+It	ARG1
+happened	V
+at	_
+the	_
+White	_
+House	ARGM-LOC
+.	_
+
+# 11.NER.2
+# text = It happend in the WW2.
+It	ARG1
+happened	V
+in	_
+the	_
+WW2	ARGM-TMP
+.	_
+
+# 11.NER.3
+# text = It happend near the Middle Ages.
+It	ARG1
+happened	V
+near	_
+the	_
+Middle	_
+Ages	ARGM-TMP
+.	_
+
+# 11.NER.4
+# text = It happend near the Statue of Liberty.
+It	ARG1
+happened	V
+in	_
+near	_
+Statue	_
+of	_
+Liberty	ARGM-LOC
+.	_
+
+# 11.NER.5
+# text = It happend in the 20th century.
+It	ARG1
+happened	V
+in	_
+the	_
+20th	_
+century	ARGM-TMP
+.	_
+
+# 11.NER.6
+# text = It happend on the Red Square.
+It	ARG1
+happened	V
+on	_
+the	_
+Red	_
+Square	ARGM-LOC
+.	_
+
+# 11.NER.7
+# text = It happend on the Christmas Eve.
+It	ARG1
+happened	V
+on	_
+the	_
+Christmas	_
+Eve	ARGM-TMP
+.	_
+
+# 11.NER.8
+# text = It happend at the Spring Festival.
+It	ARG1
+happened	V
+at	_
+the	_
+Spring	_
+Festival	ARGM-TMP
+.	_
+
+# 11.NER.9
+# text = It happend at the Crystal Palace.
+It	ARG1
+happened	V
+at	_
+the	_
+Crystal	_
+Palace	ARGM-LOC
+.	_
+
+# 11.NER.10
+# text = It happend in the Black Forest.
+It	ARG1
+happened	V
+in	_
+the	_
+Black	_
+Forest	ARGM-LOC
+.	_
+
+# 11.NER.11
+# text = It happend in the Ramadan.
+It	ARG1
+happened	V
+in	_
+the	_
+Ramadan	ARGM-TMP
+.	_
+
+# 11.NER.12
+# text = It happend in the Carnival.
+It	ARG1
+happened	V
+in	_
+the	_
+Carnival	ARGM-TMP
+.	_
+
+# 11.NER.12
+# text = It happend in the Advent.
+It	ARG1
+happened	V
+in	_
+the	_
+Advent	ARGM-TMP
+.	_
+
+# 11.NER.13
+# text = It happend on the Wall Street.
+It	ARG1
+happened	V
+on	_
+the	_
+Wall	_
+Street	ARGM-LOC
+.	_
+
+# 11.NER.14
+# text = It happend across the Renaissance.
+It	ARG1
+happened	V
+across	_
+the	_
+Renaissance	ARGM-TMP
+.	_
+
+# 11.NER.15
+# text = It happend across the Atlantic Ocean.
+It	ARG1
+happened	V
+across	_
+the	_
+Atlantic	_
+Ocean	ARGM-LOC
+.	_
+
+# 11.NER.16
+# text = It happend at the Great Depression.
+It	ARG1
+happened	V
+at	_
+the	_
+Great	_
+Depression	ARGM-TMP
+.	_
+
+# 11.NER.17
+# text = It happend at the Civil War.
+It	ARG1
+happened	V
+at	_
+the	_
+Civil	_
+War	ARGM-TMP
+.	_

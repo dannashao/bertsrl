@@ -1,0 +1,299 @@
+# 8-MFT.copular.1
+# text = The sky appears blue.
+The	_
+Sky	ARG1
+appears	V
+blue	C-ARG1
+.	_
+
+# 8-MFT.copular.2
+# text = They are happy.
+They	ARG1
+are	V
+happy	ARG2
+.	_
+
+# 8-MFT.copular.3
+# text = The book seems interesting.
+The	_
+book	ARG1
+seems	V
+interesting	C-ARG1
+.	_
+
+# 8-MFT.copular.4
+# text = She appears confused.
+She	ARG1
+appears	V
+confused	C-ARG1
+.	_
+
+# 8-MFT.copular.5
+# text = The dog is playful.
+The	_
+dog	ARG1
+is	V
+playful	ARG2
+.	_
+
+# 8-MFT.copular.6
+# text = He seems relaxed.
+He	ARG1
+seems	V
+relaxed	C-ARG1
+.	_
+
+# 8-MFT.copular.7
+# text = The flowers are beautiful.
+The	_
+flowers	ARG1
+are	V
+beautiful	ARG2
+.	_
+
+# 8-MFT.copular.8
+# text = It seems dark outside.
+It	_
+seems	V
+dark	C-ARG1
+outside	ARG1
+.	_
+
+# 8-MFT.copular.9
+# text = The movie was boring.
+The	_
+movie	ARG1
+was	V
+boring	ARG2
+.	_
+
+# 8-MFT.copular.10
+# text = The cake looks delicious.
+The	_
+cake	ARG0
+looks	V
+delicious	ARG1
+.	_
+
+# 8-MFT.comp.1
+# text = She painted the room yellow.
+She	ARG0
+painted	V
+the	_
+room	ARG1
+yellow	ARG1
+.	_
+
+# 8-MFT.comp.2
+# text = They considered the idea brilliant.
+They	ARG0
+considered	V
+the	_
+idea	ARG1
+brilliant	ARG1
+.	_
+
+# 8-MFT.comp.3
+# text = He found the food delicious.
+He	ARG0
+found	V
+the	_
+food	ARG1
+delicious	ARG1
+.	_
+
+# 8-MFT.comp.4
+# text = We deemed the movie boring.
+We	ARG0
+deemed	V
+the	_
+movie	ARG1
+boring	ARG1
+.	_
+
+# 8-MFT.comp.5
+# text = She declared him innocent.
+She	ARG0
+declared	V
+him	ARG1
+innocent	ARG1
+.	_
+
+# 8-MFT.comp.6
+# text = He thought the decision unfair.
+He	ARG0
+thought	V
+the	_
+decision	ARG1
+unfair	ARG1
+.	_
+
+# 8-MFT.comp.7
+# text = They elected her president.
+They	ARG0
+elected	V
+her	ARG1
+president	ARG1
+.	_
+
+# 8-MFT.comp.8
+# text = I judged the task difficult.
+I	ARG0
+judged	V
+the	_
+task	ARG1
+difficult	ARG1
+.	_
+
+# 8-MFT.comp.9
+# text = She named the dog Max.
+We	ARG0
+deemed	V
+the	_
+movie	ARG1
+boring	ARG1
+.	_
+
+# 8-MFT.comp.10
+# text = He proclaimed the speech inspiring.
+He	ARG0
+proclaimed	V
+the	_
+speech	ARG1
+inspiring	ARG1
+.	_
+
+# 8-MFT.group.1
+# text = The brave protect the weak.
+The	_
+brave	ARG0
+protect	V
+the	_
+weak	ARG1
+.	_
+
+# 8-MFT.group.2
+# text = The beautiful inspire artists.
+The	_
+beautiful	ARG0
+inspire	V
+artists	ARG1
+.	_
+
+# 8-MFT.group.3
+# text = The old cherish memories.
+The	_
+old	ARG0
+cherish	V
+memories	ARG1
+.	_
+
+# 8-MFT.group.4
+# text = The strong support the vulnerable.
+The	_
+strong	ARG0
+support	V
+the	_
+vulnerable	ARG1
+.	_
+
+# 8-MFT.group.5
+# text = The wise guide the ignorant.
+The	_
+wise	ARG0
+guide	V
+the	_
+ignorant	ARG1
+.	_
+
+# 8-MFT.group.6
+# text = The kind help those in need.
+The	_
+kind	ARG0
+help	V
+those	ARG1
+in	_
+need	_
+.	_
+
+# 8-MFT.group.7
+# text = The young dream big.
+The	_
+young	ARG0
+dream	V
+big	ARGM-MNR
+.	_
+
+# 8-MFT.group.8
+# text = The patient endure hardships.
+The	_
+patient	ARG0
+endure	V
+hardships	ARG1
+.	_
+
+# 8-MFT.group.9
+# text = The talented impress audiences.
+The	_
+talented	ARG0
+impress	V
+audiences	ARG1
+.	_
+
+# 8-MFT.group.10
+# text = The generous donate to charities.
+The	_
+generous	ARG0
+donate	V
+to	_
+charities	ARG2
+.	_
+
+# 8-MFT.compsup.1
+# text = The fastest won the race.
+The	_
+fastest	ARG0
+won	V
+the	_
+race	ARG1
+.	_
+
+# 8-MFT.compsup.2
+# text = The tallest reached the top shelf.
+The	_
+tallest	ARG0
+reached	V
+the	_
+top	_
+shelf	ARG1
+.	_
+
+# 8-MFT.compsup.3
+# text = The brightest aced the exam.
+The	_
+brightest	ARG0
+aced	V
+the	_
+exam	ARG1
+.	_
+
+# 8-MFT.compsup.4
+# text = The most intelligent solved the puzzle.
+The	_
+most	_
+intelligent	ARG0
+solved	V
+the	_
+puzzle	ARG1
+.	_
+
+
+# 8-MFT.compsup.5
+# text = The strongest lifted the heaviest weight.
+The	_
+strongest	ARG0
+lifted	V
+the	_
+heaviest	_
+weight	ARG1
+.	_

@@ -1,0 +1,195 @@
+# 18.dev.1
+# text = He also nominated him a term.
+He	ARG0
+also	ARGM-DIS
+nominated	V
+him	ARG1
+a	_
+term	ARG2
+.	_
+
+# 18.dev.2
+# text = Yet we charged them for the evacuation.
+Yet	ARGM-DIS
+we	ARG0
+charged	V
+them	ARG2
+for	_ 
+the	_
+evacuation	ARG3
+
+# 18.dev.3
+# text = That's right, folks.
+That	ARG1
+'s	V
+right	ARG2
+,	_
+folks	ARGM-DIS
+.	_
+
+# 18.dev.4
+# text = And I gave it all my heart.
+And	ARGM-DIS
+I	ARG0
+gave	V
+it	ARG2
+all	_
+my	_
+heart	ARG1
+.	_
+
+# 18.dev.5
+# text = John, you are in, right?
+John	ARGM-DIS
+,	_
+you	ARG1
+are	V
+in	ARG2
+,	_
+right	ARGM-DIS
+?	_
+
+# 18.dev.6
+# text = Please notify the sender.
+Please	ARGM-DIS
+notify	V
+the	_
+sender	ARG1
+.	_
+
+# 18.dev.7
+# text = Whatever, you are the old man.
+Whatever	ARGM-DIS
+,	_
+you	ARG1
+are	V
+the	_
+old	_
+man	ARG2
+.	_
+
+# 18.dev.8
+# text = However, he also mentioned it.
+However	ARGM-DIS
+,	_
+he	ARG0
+also	ARGM-DIS
+mentioned	V
+it	ARG1
+.	_
+
+# 18.dev.9
+# text = As such, they differ in respects.
+As	_
+such	ARGM-DIS
+,	_
+they	ARG1
+differ	V
+in	_
+respects	ARG3
+from	_
+those	ARG2
+.	_
+
+# 18.dev.10
+# text = Further, she informed me that.
+Further	ARGM-DIS
+,	_
+she	ARG0
+informed	V
+me	ARG1
+that	ARG2
+.	_
+
+# 18.test.1
+# text = But there is no proof.
+But	ARGM-DIS
+there	_
+is	V
+no	_
+proof	ARG1
+.	_
+
+# 18.test.2
+# text = Most troubling, however, is the fact.
+Most	_
+troubling	ARG1
+,	_
+however	ARGM-DIS
+,	_
+is	V
+the	_
+fact	ARG2
+.	_
+
+# 18.test.3
+# text = It is just bad.
+It	ARG1
+is	V
+just	ARGM-DIS
+bad	ARG2
+.	_
+
+# 18.test.4
+# text = I am sure, though.
+I	ARG1
+am	V
+sure	ARG2
+,	_
+though	ARGM-DIS
+.	_
+
+# 18.test.5
+# text = I know it helps however.
+I	ARG0
+know	V
+it	_
+helps	ARG1
+however	ARGM-DIS
+.	_
+
+# 18.test.6
+# text = Well, you know it.
+Well	ARGM-DIS
+,	_
+you	ARG0
+know	V
+it	ARG1
+.	_
+
+# 18.test.7
+# text = He has class, too.
+He	ARG0
+has	V
+class	ARG1
+,	_
+too	ARGM-DIS
+.	_
+
+# 18.test.8
+# text = He is on board as well.
+He	ARG1
+is	V
+on	_
+board	ARG2
+as	ARGM-DIS
+well	_
+.	_
+
+# 18.test.9
+# text = Thank you though.
+Thank	V
+you	ARG1
+though	ARGM-DIS
+.	_
+
+# 18.test.10
+# text = Of course, that was the bottom.
+Of	ARGM-DIS
+course	_
+,	_
+that	ARG1
+was	V
+the	_
+bottom	ARG2
+.	_

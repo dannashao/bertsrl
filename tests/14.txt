@@ -1,0 +1,302 @@
+# 14.prep.1.a
+# text = The cat sat on the mat.
+The	_
+cat	ARG0
+sat	V
+on	_
+the	_
+mat	ARGM-LOC
+.	_
+
+# 14.prep.1.b
+# text = On the mat sat the cat.
+On	_
+the	_
+mat	ARGM-LOC
+sat	V
+the	_
+cat	ARG0
+.	_
+
+# 14.prep.2.a
+# text = The children played in the garden.
+The	_
+children	ARG0
+played	V
+in	_
+the	_
+garden	ARGM-LOC
+.	_
+
+# 14.prep.2.b
+# text = In the garden played the children.
+In	_
+the	_
+mgarden	ARGM-LOC
+played	V
+the	_
+children	ARG0
+.	_
+
+# 14.prep.3.a
+# text = She walked along the beach.
+She	ARG0
+walked	V
+along	_
+the	_
+beach	ARGM-LOC
+.	_
+
+# 14.prep.3.b
+# text = Along the beach walked she.
+Along	_
+the	_
+beach	ARGM-LOC
+walked	V
+she	ARG0
+.	_
+
+# 14.prep.4.a
+# text = He sat under the tree.
+He	ARG0
+sat	V
+under	_
+the	_
+tree	ARGM-LOC
+.	_
+
+# 14.prep.4.b
+# text = Under the tree sat he.
+Under	_
+the	_
+tree	ARGM-LOC
+sat	V
+he	ARG0
+.	_
+
+# 14.prep.5.a
+# text = Mary danced around the room.
+Mary	ARG0
+danced	V
+around	_
+the	_
+room	ARGM-LOC
+.	_
+
+# 14.prep.5.b
+# text = Around the room danced Mary.
+Around	_
+the	_
+room	ARGM-LOC
+danced	V
+Mary	ARG0
+.	_
+
+# 14.prep.6.a
+# text = The car drove across the bridge.
+The	_
+car	ARG0
+drove	V
+across	_
+the	_
+bridge	ARGM-LOC
+.	_
+
+# 14.prep.6.b
+# text = Across the bridge drove the car.
+Across	_
+the	_
+bridge	ARGM-LOC
+drove	V
+the	_
+car	ARG0
+.	_
+
+# 14.prep.7.a
+# text = The birds flew over the mountains.
+The	_
+birds	ARG0
+flew	V
+over	_
+the	_
+mountains	ARGM-LOC
+.	_
+
+# 14.prep.7.b
+# text = Over the mountains flew the birds.
+Over	_
+the	_
+mountains	ARGM-LOC
+flew	V
+the	_
+birds	ARG0
+.	_
+
+# 14.prep.8.a
+# text = The boat sailed around the island.
+The	_
+boat	ARG0
+sailed	V
+around	_
+the	_
+island	ARGM-LOC
+.	_
+
+# 14.prep.8.b
+# text = Around the island sailed the boat.
+Around	_
+the	_
+island	ARGM-LOC
+sailed	V
+the	_
+boat	ARG0
+.	_
+
+# 14.prep.9.a
+# text = The sun sets behind the mountains.
+The	_
+sun	ARG0
+sets	V
+behind	_
+the	_
+mountains	ARGM-LOC
+.	_
+
+# 14.prep.9.b
+# text = Behind the mountains sets the sun.
+Behind	_
+the	_
+mountains	ARGM-LOC
+sets	V
+the	_
+sun	ARG0
+.	_
+
+# 14.prep.10.a
+# text = John waited at the station.
+John	ARG0
+waited	V
+at	_
+the	_
+station	ARGM-LOC
+.	_
+
+# 14.prep.10.b
+# text = At the station waited John.
+At	_
+the	_
+station	ARGM-LOC
+waited	V
+John	ARG0
+.	_
+
+# 14.adv.1.a
+# text = He runs quickly.
+He	ARG0
+runs	V
+quickly	ARGM-MNR
+.	_
+
+# # 14.adv.1.b
+# text = Quickly, he runs.
+Quickly	ARGM-MNR
+,	_
+he	ARG0
+runs	V
+.	_
+
+# 14.adv.2.a
+# text = They dance gracefully.
+They	ARG0
+dance	V
+gracefully	ARGM-MNR
+.	_
+
+# # 14.adv.2.b
+# text = Gracefully, they dance.
+Gracefully	ARGM-MNR
+,	_
+they	ARG0
+dance	V
+.	_
+
+# 14.adv.3.a
+# text = The dog barks loudly.
+The	_
+dog	ARG0
+barks	V
+loudly	ARGM-MNR
+.	_
+
+# # 14.adv.3.b
+# text = Loudly, the dog barks.
+Loudly	ARGM-MNR
+,	_
+the	_
+dog	ARG0
+barks	V
+.	_
+
+# 14.adv.4.a
+# text = Sarah writes neatly.
+Sarah	ARG0
+writes	V
+neatly	ARGM-MNR
+.	_
+
+# # 14.adv.4.b
+# text = Neatly, Sarah writes.
+Neatly	ARGM-MNR
+,	_
+Sarah	ARG0
+writes	V
+.	_
+
+# 14.adv.5.a
+# text = We laugh joyfully.
+We	ARG0
+laugh	V
+joyfully	ARGM-MNR
+.	_
+
+# # 14.adv.5.b
+# text = Joyfully, we laugh.
+Joyfully	ARGM-MNR
+,	_
+we	ARG0
+laugh	V
+.	_
+
+# 14.adv.6.a
+# text = The wind howled fiercely.
+The	_
+wind	ARG0
+howled	V
+fiercely	ARGM-MNR
+.	_
+
+# # 14.adv.6.b
+# text = Fiercely, the wind howled.
+Fiercely	ARGM-MNR
+,	_
+the	_
+wind	ARG0
+howled	V
+.	_
+
+# 14.adv.7.a
+# text = The crowd cheered loudly.
+The	_
+crowd	ARG0
+cheered	V
+loudly	ARGM-MNR
+.	_
+
+# # 14.adv.7.b
+# text = Loudly, the crowd cheered.
+Loudly	ARGM-MNR
+,	_
+the	_
+crowd	ARG0
+cheered	V
+.	_
