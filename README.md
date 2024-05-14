@@ -1,7 +1,8 @@
-# Final project for Advanced NLP
+# Checklisting the Fine-tured BERT for Semantic Role Labeling
 
-- Paper link: https://www.overleaf.com/read/gwnyxhfdnxtn#f462ee
+- Thesis link: https://www.overleaf.com/read/gwnyxhfdnxtn#f462ee
 
+This repo uses the Checklist approach to evaluate the fine-tuned BERT models for SRL. For details on how the BERT models are fine-tuned, see [this notebook](https://github.com/dannashao/portfolio-NLP/blob/main/SRL/Fine%20tune%20BERT%20for%20SRL.ipynb)
 
 ## Contents
 ### Folders
